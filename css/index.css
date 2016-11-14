@@ -539,14 +539,14 @@ input,button{
 }
 .lunbo .lunboLogin4  .lunboLogin4Ma{
 	position: absolute;
-	z-index: 5px;
+	z-index: 5;
 	width:92px;
-	height: 104;
+	height: 104px;
 	border:1px solid #ccc;
 	background: white;
 	top:-103px;
 	left:-16px;
-	z-index: 22px;
+	z-index: 22;
 }
 .lunbo .lunboLogin4 li>img{
 	padding:8px 10px 8px 15px;
